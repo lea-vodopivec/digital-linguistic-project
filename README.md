@@ -1,3 +1,5 @@
+# Translation of idioms in large language models (LLMs) and machine translation (MT) tools from English to Slovene<img width="3944" height="150" alt="image" src="https://github.com/user-attachments/assets/db338141-f26b-4ce4-a204-742f5a300047" />
+
 # Digital Linguistic Project
 
 A comprehensive research project analyzing idiom translation quality across Machine Translation (MT) systems and Large Language Models (LLMs). This study evaluates how well different translation technologies preserve the semantic meaning and cultural nuances of idiomatic expressions when translating from English to Slovenian.
@@ -89,4 +91,5 @@ The translation data file contains:
 - **Sentence**: Context sentence containing the idiom
 - **System columns**: Translation output from each system
 - **Meaning evaluation**: Yes/No annotation for meaning preservation
+
 - **Type annotation**: 1-4 classification of translation strategy

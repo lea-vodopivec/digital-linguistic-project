@@ -1,4 +1,4 @@
-# Translation of idioms in large language models (LLMs) and machine translation (MT) tools from English to Slovene<img width="3944" height="150" alt="image" src="https://github.com/user-attachments/assets/db338141-f26b-4ce4-a204-742f5a300047" />
+# Translation of idioms in large language models (LLMs) and machine translation (MT) tools from English to Slovene
 
 # Digital Linguistic Project
 
@@ -93,3 +93,4 @@ The translation data file contains:
 - **Meaning evaluation**: Yes/No annotation for meaning preservation
 
 - **Type annotation**: 1-4 classification of translation strategy
+
